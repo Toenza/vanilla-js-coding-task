@@ -1,7 +1,7 @@
 # vanilla-js-coding-task
 
 Exercise: As a big chess fan, you would like to create a library of chess pictures.
-For this, you want to be using unsplash to get random chess pictures (unsplash documentation).
+For this, you want to be using unsplash to get random chess pictures (https://unsplash.com/documentation).
 You want to be able to pick one of those images and drop it in a box to choose which is your favorite picture.
 Requirements:
 
